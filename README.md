@@ -1,4 +1,4 @@
-Title: Ozone mitigates extended growing season and enhanced vegetation productivity driven by climate change
+Title: Ozone mitigates extended growing season and enhanced vegetation greenness driven by climate change
 
 Code: Code.py
 
