@@ -4,6 +4,7 @@ Overview:
 The codes provided above is about the statistical analysis of raw data using Matlab software.
 
 System requirements:
+Hardware requirements:
 A standard computer with enough RAM to support the in-memory operations is required for the installation and operations with Python3.8 platform.
 
 Software requirements:
@@ -34,4 +35,10 @@ Temperature Data: data/temp.csv
 
 Predict Future Data: Folder Predict
 
+Demo:
+Instructions to run on data:
+The details about Python installation and packages management is accessible at：https://packaging.python.org/en/latest/tutorials/installing-packages/
+The cody.py script are designed for attribution analysis and visualization of figures presented in the manuscript titled "Ozone mitigates extended growing season and enhanced vegetation greenness driven by climate change"
 
+Expected output
+All figures in our manuscript.
